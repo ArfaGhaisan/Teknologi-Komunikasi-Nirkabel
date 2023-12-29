@@ -1,4 +1,4 @@
 Kelompok 10:
-11. Dzaky Herlambang		(101022300113)
-25. Muhamad Arfa Ghaisan	(101022300273)
-28. Rino Kayana
+11. Dzaky Herlambang/n
+25. Muhamad Arfa Ghaisan/n	
+28. Rino Kayana/n
