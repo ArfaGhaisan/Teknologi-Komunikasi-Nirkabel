@@ -4,6 +4,7 @@ Anggota Kelompok:
 3. Rino Kayana
 
 Topik: Teknologi Komunikasi Nirkabel
+
 "Pengaplikasian Teknologi Komunikasi Nirkabel Terbaru yaitu Wifi 6 pada Ruang Lingkup Masyarakat Umum"
 
 Tujuan: 
@@ -13,6 +14,3 @@ Tujuan:
 
 Signifikasi:
 Dengan pemahaman yang mendalam tentang Wifi 6, diharapkan dapat memperbaiki pengalaman internet bagi berbagai sektor, mulai dari pengguna rumahan hingga skala bisnis dan industri.
-
-
-
